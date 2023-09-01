@@ -1,0 +1,10 @@
+.Buttons{
+    position: absolute;
+    top: 120px;
+    right: 300px;
+    font-size: 18px;
+    border: 2px solid #016A70;
+    width: 500px;
+    height: 300px;
+  
+}
